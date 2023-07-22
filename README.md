@@ -1,4 +1,4 @@
-# Task List App
+# Task Mangement App
 
 This repository contains a simple Task List app built using React with Material-UI components. The app allows users to create, view, edit, and delete tasks in a user-friendly interface.
 
